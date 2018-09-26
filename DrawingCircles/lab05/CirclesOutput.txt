@@ -1,0 +1,25 @@
+Lab 5 written by An Tri Bao Nguyen
+
+Enter information for the first circle: 
+x = 13
+y = 24
+r = 67
+
+Enter information for the second circle: 
+x = 125
+y = 120
+r = 23
+
+Enter information for the third circle: 
+x = 124
+y = 22
+r = 10
+The green circle is bigger than the red circle
+The green circle is bigger than the blue circle
+The red circle is bigger than the blue circle
+The green circle does not intersect with the red circle
+The green circle does not intersect with the blue circle
+The red circle does not intersect with the blue circle
+The green circle is partially inside the window
+The red circle is completely inside the window
+The blue circle is completely inside the window

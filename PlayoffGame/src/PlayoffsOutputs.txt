@@ -1,0 +1,20 @@
+ Lab 6 written by An Tri Bao Nguyen 
+
+Enter the win percentage of team 1: 50
+1
+2
+1
+2
+2
+2
+2
+1
+2
+1
+1
+1
+1
+1
+1
+1
+ After 10 playoffs, Team 1 wins!

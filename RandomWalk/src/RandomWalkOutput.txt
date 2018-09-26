@@ -1,0 +1,6 @@
+Lab 7 written by An Tri Bao Nguyen
+
+Enter the circle's radius (50-400 pixels): 
+400
+Enter the color of the circle (green [g] or blue [b]): g
+After 91500 steps, the walk is finished.
